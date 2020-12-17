@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hellenward/santa-match.git/static/css/main.80f3cb68.chunk.css",
+    "main.js": "/hellenward/santa-match.git/static/js/main.c7341bc0.chunk.js",
+    "main.js.map": "/hellenward/santa-match.git/static/js/main.c7341bc0.chunk.js.map",
+    "runtime-main.js": "/hellenward/santa-match.git/static/js/runtime-main.c0384c7d.js",
+    "runtime-main.js.map": "/hellenward/santa-match.git/static/js/runtime-main.c0384c7d.js.map",
+    "static/js/2.3834fd8f.chunk.js": "/hellenward/santa-match.git/static/js/2.3834fd8f.chunk.js",
+    "static/js/2.3834fd8f.chunk.js.map": "/hellenward/santa-match.git/static/js/2.3834fd8f.chunk.js.map",
+    "static/js/3.1fc3e0f0.chunk.js": "/hellenward/santa-match.git/static/js/3.1fc3e0f0.chunk.js",
+    "static/js/3.1fc3e0f0.chunk.js.map": "/hellenward/santa-match.git/static/js/3.1fc3e0f0.chunk.js.map",
+    "index.html": "/hellenward/santa-match.git/index.html",
+    "static/css/main.80f3cb68.chunk.css.map": "/hellenward/santa-match.git/static/css/main.80f3cb68.chunk.css.map",
+    "static/js/2.3834fd8f.chunk.js.LICENSE.txt": "/hellenward/santa-match.git/static/js/2.3834fd8f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hellenward/santa-match.git/static/media/background.67426dc6.jpg",
+    "static/media/champagne.0bcf72b2.jpg": "/hellenward/santa-match.git/static/media/champagne.0bcf72b2.jpg",
+    "static/media/App.css": "/hellenward/santa-match.git/static/media/codebar.fe5f19f8.png",
+    "static/media/cracker.079c47b7.jpg": "/hellenward/santa-match.git/static/media/cracker.079c47b7.jpg",
+    "static/media/holly.c8cf1fdc.jpg": "/hellenward/santa-match.git/static/media/holly.c8cf1fdc.jpg",
+    "static/media/tree.01a2358f.png": "/hellenward/santa-match.git/static/media/tree.01a2358f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0384c7d.js",
+    "static/js/2.3834fd8f.chunk.js",
+    "static/css/main.80f3cb68.chunk.css",
+    "static/js/main.c7341bc0.chunk.js"
+  ]
+}
