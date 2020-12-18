@@ -6,6 +6,7 @@ h1 {
 
 .header {
   text-align: center;
+  width: 100%;
 }
 
 
@@ -14,6 +15,7 @@ h1 {
   justify-content: center;
   align-items: center;
   margin-top: 50px;
+  width: 100%;
 }
 
 
@@ -89,15 +91,40 @@ h1 {
 }
 
 @media only screen and (max-width: 600px) {
+  .App {
+    display: block;
+    max-width: 24em;
+  }
   .image {
-    height: 100px;
-    width: 110px;
+    height: 4em;
+    width: 4em;
     margin: 5px;
   }
+  .images {
+    max-width: 90%;
+    justify-content: center;
+    box-shadow: none;
+  }
+  .end-game {
+    max-width: 100%;
+  }
   .message {
-    width: 400px;
+    max-width: 75%;
+    max-height: 50%;
+    text-align: center;
   }
   .login {
     width: 400px;
+  }
+  h1 {
+    font-size: 25px;
+  }
+  header {
+    max-width: 100%;
+  }
+  .container {
+    width: 100%;
+    margin: 5vh 0;
+    justify-content:center;
   }
 }
