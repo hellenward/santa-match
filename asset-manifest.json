@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/santa-match/static/css/main.95976409.chunk.css",
+    "main.css": "/santa-match/static/css/main.47f0757d.chunk.css",
     "main.js": "/santa-match/static/js/main.c7341bc0.chunk.js",
     "main.js.map": "/santa-match/static/js/main.c7341bc0.chunk.js.map",
     "runtime-main.js": "/santa-match/static/js/runtime-main.b1807ac4.js",
@@ -10,7 +10,7 @@
     "static/js/3.1fc3e0f0.chunk.js": "/santa-match/static/js/3.1fc3e0f0.chunk.js",
     "static/js/3.1fc3e0f0.chunk.js.map": "/santa-match/static/js/3.1fc3e0f0.chunk.js.map",
     "index.html": "/santa-match/index.html",
-    "static/css/main.95976409.chunk.css.map": "/santa-match/static/css/main.95976409.chunk.css.map",
+    "static/css/main.47f0757d.chunk.css.map": "/santa-match/static/css/main.47f0757d.chunk.css.map",
     "static/js/2.3834fd8f.chunk.js.LICENSE.txt": "/santa-match/static/js/2.3834fd8f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/santa-match/static/media/background.67426dc6.jpg",
     "static/media/champagne.0bcf72b2.jpg": "/santa-match/static/media/champagne.0bcf72b2.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.b1807ac4.js",
     "static/js/2.3834fd8f.chunk.js",
-    "static/css/main.95976409.chunk.css",
+    "static/css/main.47f0757d.chunk.css",
     "static/js/main.c7341bc0.chunk.js"
   ]
 }
