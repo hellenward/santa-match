@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/santa-match/static/css/main.47f0757d.chunk.css",
-    "main.js": "/santa-match/static/js/main.c7341bc0.chunk.js",
-    "main.js.map": "/santa-match/static/js/main.c7341bc0.chunk.js.map",
-    "runtime-main.js": "/santa-match/static/js/runtime-main.b1807ac4.js",
-    "runtime-main.js.map": "/santa-match/static/js/runtime-main.b1807ac4.js.map",
-    "static/js/2.3834fd8f.chunk.js": "/santa-match/static/js/2.3834fd8f.chunk.js",
-    "static/js/2.3834fd8f.chunk.js.map": "/santa-match/static/js/2.3834fd8f.chunk.js.map",
-    "static/js/3.1fc3e0f0.chunk.js": "/santa-match/static/js/3.1fc3e0f0.chunk.js",
-    "static/js/3.1fc3e0f0.chunk.js.map": "/santa-match/static/js/3.1fc3e0f0.chunk.js.map",
+    "main.js": "/santa-match/static/js/main.ff062ca6.chunk.js",
+    "main.js.map": "/santa-match/static/js/main.ff062ca6.chunk.js.map",
+    "runtime-main.js": "/santa-match/static/js/runtime-main.6f56945e.js",
+    "runtime-main.js.map": "/santa-match/static/js/runtime-main.6f56945e.js.map",
+    "static/js/2.1836946c.chunk.js": "/santa-match/static/js/2.1836946c.chunk.js",
+    "static/js/2.1836946c.chunk.js.map": "/santa-match/static/js/2.1836946c.chunk.js.map",
+    "static/js/3.b918ea9b.chunk.js": "/santa-match/static/js/3.b918ea9b.chunk.js",
+    "static/js/3.b918ea9b.chunk.js.map": "/santa-match/static/js/3.b918ea9b.chunk.js.map",
     "index.html": "/santa-match/index.html",
     "static/css/main.47f0757d.chunk.css.map": "/santa-match/static/css/main.47f0757d.chunk.css.map",
-    "static/js/2.3834fd8f.chunk.js.LICENSE.txt": "/santa-match/static/js/2.3834fd8f.chunk.js.LICENSE.txt",
+    "static/js/2.1836946c.chunk.js.LICENSE.txt": "/santa-match/static/js/2.1836946c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/santa-match/static/media/background.67426dc6.jpg",
     "static/media/champagne.0bcf72b2.jpg": "/santa-match/static/media/champagne.0bcf72b2.jpg",
     "static/media/App.css": "/santa-match/static/media/codebar.fe5f19f8.png",
@@ -20,9 +20,9 @@
     "static/media/tree.01a2358f.png": "/santa-match/static/media/tree.01a2358f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1807ac4.js",
-    "static/js/2.3834fd8f.chunk.js",
+    "static/js/runtime-main.6f56945e.js",
+    "static/js/2.1836946c.chunk.js",
     "static/css/main.47f0757d.chunk.css",
-    "static/js/main.c7341bc0.chunk.js"
+    "static/js/main.ff062ca6.chunk.js"
   ]
 }
