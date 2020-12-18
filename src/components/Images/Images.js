@@ -2,34 +2,30 @@ import React from 'react';
 import { images } from '../../resources/CardLInks/CardLinks.js';
 
 class Images extends React.Component {
-  constructor() {
-    super();
-    this.handleClick = this.handleClick.bind(this);
-  }
-    characters = [];
+    christmasImages = [];
     handleClick = (event) => {
-      let character = event.target;
-      if (character.getAttribute("check") === "found") {
+      let christmasImage = event.target;
+      if (christmasImage.getAttribute("check") === "found") {
         return;
       }
 
-      if (character !== this.characters[0]) {
-        this.switch(character);
-        this.characters.push(character);
+      if (christmasImage !== this.christmasImages[0]) {
+        this.switch(christmasImage);
+        this.christmasImages.push(christmasImage);
       } else {
-        this.switch(character);
-        this.characters = [];
+        this.switch(christmasImage);
+        this.christmasImages = [];
       }
 
-      if (this.characters.length > 2) {
-        if (!this.checkName(this.characters[0], this.characters[1])) {
-          this.switch(this.characters[0]);
-          this.switch(this.characters[1]);
-          this.characters.shift();
-          this.characters.shift();
+      if (this.christmasImages.length > 2) {
+        if (!this.checkName(this.christmasImages[0], this.christmasImages[1])) {
+          this.switch(this.christmasImages[0]);
+          this.switch(this.christmasImages[1]);
+          this.christmasImages.shift();
+          this.christmasImages.shift();
         } else {
-          this.characters.shift();
-          this.characters.shift();
+          this.christmasImages.shift();
+          this.christmasImages.shift();
         }
       }
       let allPictures = document.getElementsByClassName("image-blank");
@@ -39,15 +35,15 @@ class Images extends React.Component {
         for (let i = 0; i < reset.length; i++) {
           reset[i].classList.add("image-blank");
           reset[i].setAttribute("check", "false");
-          this.characters = [];
+          this.christmasImages = [];
         }
       }
     };
 
-    checkName = (character1, character2) => {
-      if (character1.getAttribute("name") === character2.getAttribute("name")) {
-        character1.setAttribute("check", "found");
-        character2.setAttribute("check", "found");
+    checkName = (christmasImage1, christmasImage2) => {
+      if (christmasImage1.getAttribute("name") === christmasImage2.getAttribute("name")) {
+        christmasImage1.setAttribute("check", "found");
+        christmasImage2.setAttribute("check", "found");
         return true;
       }
       return false;
